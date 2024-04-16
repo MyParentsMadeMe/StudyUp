@@ -1,0 +1,51 @@
+Vocab,Definition,Big Idea
+syntax error,"A mistake in typed code that violates the rules of the programming language. Typically, code with syntax errors will not run.",1
+logic error,A mistake in an algorithm or program that causes it to behave unexpectedly or return the incorrect value.,1
+run-time error,"A mistake in a program that happens only when the program is actually run, such as a program attempting to access memory that does not exist.",1
+overflow error,Error that results when the number of bits is not enough to represent the number (like a car’s odometer “rolling over”),1
+bit,"A binary digit, either 0 or 1.",2
+byte,A sequence of 8 bits.,2
+roundoff, Error that results when the number of bits is not enough to represent the number with full precision (like using 3 digits to represent   as 3.14),2
+analog data,"Values that change smoothly, rather than in discrete intervals, over time. For example, the pitch and volume of a live concert.",2
+lossless,Compressing data in a way that preserves all data away and allows full recovery of the original,2
+lossy, Compressing data in a way that discards some data and makes it impossible to recover the original.,2
+metadata,"Data about data, like descriptive information about a file or a row in a database.",2
+sequencing,The sequential execution of steps in an algorithm or code in a program (like steps in a recipe).,3
+selection,A Boolean condition to determine which of two paths are taken in an algorithm or program.,3
+iteration,The repetition of steps in an algorithm or program for a certain amount of times or until a certain condition is met.,3
+linear search, An algorithm that iterates through each item in a list until it finds the target value.,3
+binary search,An algorithm that searches a sorted list for a value by repeatedly splitting the list in half.,3
+reasonable time,"A run time for an algorithm that doesn't increase faster than a polynomial function of the input size (like  ,  , etc). An unreasonable run time would increase superpolynomially (like   or  ). ",3
+heuristic,A technique that helps an algorithm find a good solution in a hard problem (like always walking toward the north star when you are stuck in a forest).,3
+undecidable,"A problem that is so logically difficult, we can’t ever create an algorithm that would be able to answer ""yes or ""no"" for all inputs (like the halting problem).",3
+library,A collection of procedures that are useful in creating programs.,3
+API,"Application Programming Interface, a library of procedures and a description of how to call each procedure.",3
+modularity,The separation of a program into independent modules that are each responsible for one aspect of the program's functionality.,3
+traversal,"The iteration over the items in a list. A full traversal iterates over every item, while a partial traversal iterates over a subset of the items.",3
+computing device,"A physical device that can run a program, such as a computer, smart phone, or smart sensor.",4
+computer network,A group of interconnected computing devices capable of sending or receiving data.,4
+bandwidth,"The maximum amount of data that can be sent in a fixed period of time over a network connection, typically measured in bits per second",4
+protocol, An agreed upon set of rules that specify the behavior of a system. ,4
+scalability,The ability of a system to adjust in scale to meet new demands. ,4
+IP (Internet Protocol),The protocol that determines how to address nodes on the network (with IP addresses) and how to route data from one node to a destination node (using routers). ,4
+TCP (Transmission Control Protocol):,A data transport protocol that includes mechanisms for reliably transmitting packets to a destination.,4
+UDP (User Datagram Protocol):,A lightweight data transport protocol with minimal error checking.,4
+World Wide Web: ,"A system of linked pages, media, and files, browsable over HTTP.",4
+HTTP (Hypertext Transfer Protocol):,"The protocol that powers the Web, used to request webpages from servers and submit form data to servers.",4
+parallel computing,"A computational model which splits a program into multiple tasks, some of which can be executed simultaneously.",4
+speedup,"The improvement in the amount of time a parallelized program takes to solve a problem, computed as the amount of time to complete the task sequentially divided by the amount of time to complete the task when run in parallel.",4
+distributed computing,A computational model which uses multiple devices to run different parts of a program. ,4
+digital divide: ,"The idea that some communities or populations have less access to computing than others, typically due to limitations of Internet speed or computer hardware access.",5
+crowdsourcing,"A model in which many online users combine efforts to help fund projects, generate ideas, or create goods or services (like Wikipedia).",5
+citizen science,Crowdsourcing for science! The participation of volunteers from the public in a scientific research project (like collecting rain samples or counting butterflies),5
+Creative Commons,"An alternative to copyright that allows people to declare how they want their artistic creations to be shared, remixed, used in noncommercial contexts, and how the policy should propagate with remixed versions.",5
+open access: ,A policy that allows people to have access to documents (like research papers) for reading or data (like government datasets) for analysis.,5
+PII (Personally identifiable information),Information about an individual that can be used to uniquely identify them (directly or indirectly),5
+multifactor authentication (MFA),A method of user authentication which requires the user to present multiple pieces of evidence in multiple categories (such as knowledge and possession),5
+encryption,The process of scrambling data to prevent unauthorized access,5
+symmetric encryption,A technique for encrypting data where the same key is used to both encrypt and decrypt data.,5
+public key encryption,An asymmetric encryption technique that uses different keys for encrypting versus decrypting data.,5
+cookie, A small amount of text that tracks information about a user visiting a website.,5
+virus, A type of computer malware that can make copies of itself.,5
+phishing,"An attack where a user is tricked into revealing private information, often via a deceptive email.",5
+rogue access point,A wireless access point that provides an attacker with unauthorized access to the traffic going over the network.,5
